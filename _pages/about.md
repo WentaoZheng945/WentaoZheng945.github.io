@@ -12,24 +12,6 @@ I am currently a second-year master's student specializing in Transportation Eng
 
 Education
 ======
-![southwest jiaotong university](swjtu.png)  
-**Research Intern**  
-*2018.9 - 2022.6*  
-
-![tongji university](tongji.png)  
-**A.S. Intern**  
-*2022.9 - now*  
-
-<p float="left">
-  <img src="../images/swjtu.png" alt="southwest jiaotong university Logo" width="100"/>
-  <strong>Bachelor</strong>
-  <em>2018.9 - 2022.6</em>
-</p>
-<p float="left">
-  <img src="../images/tongji.png" alt="tongji Logo" width="100"/>
-  <strong>Master Student</strong>
-  <em>2022.9 - now</em>
-</p>
 
 <div style="float: left; margin-right: 20px; text-align: center;">
   <img src="../images/swjtu.png" alt="southwest jiaotong university Logo" width="100"/>
