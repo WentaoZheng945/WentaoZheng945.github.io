@@ -28,13 +28,14 @@ Education
 <!-- Clear floats after the columns -->
 <div style="clear: both;"></div>
 
-Getting started
+
+Interests
 ======
+Fitness, basketball, badminton
 
-
-Site-wide configuration
+Honor
 ------
-
+Outstanding graduates of Sichuan Province(2022)
 
 Create content & metadata
 ------
