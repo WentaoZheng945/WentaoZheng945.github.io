@@ -20,6 +20,15 @@ Education
 **A.S. Intern**  
 *2022.9 - now*  
 
+<p float="left">
+  <img src="path_to_nvidia_logo.png" alt="NVIDIA Logo" width="100"/>
+  <em>2023.6 - 2023.12</em>
+</p>
+<p float="left">
+  <img src="path_to_amazon_logo.png" alt="Amazon Logo" width="100"/>
+  <em>2022.5 - 2022.9</em>
+</p>
+
 Getting started
 ======
 
