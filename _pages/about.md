@@ -12,7 +12,13 @@ I am currently a second-year master's student specializing in Transportation Eng
 
 Education
 ======
+![southwest jiaotong university](swjtu.png)  
+**Research Intern**  
+*2018.9 - 2022.6*  
 
+![tongji university](tongji.png)  
+**A.S. Intern**  
+*2022.9 - now*  
 
 Getting started
 ======
