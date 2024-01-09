@@ -31,6 +31,21 @@ Education
   <em>2022.9 - now</em>
 </p>
 
+<div style="float: left; margin-right: 20px; text-align: center;">
+  <img src="../images/swjtu.png" alt="southwest jiaotong university Logo" width="100"/>
+  <div><strong>Bachelor</strong></div>
+  <div><em>2018.9 - 2022.6</em></div>
+</div>
+
+<div style="float: left; margin-right: 20px; text-align: center;">
+  <img src="../images/tongji.png" alt="tongji Logo" width="100"/>
+  <div><strong>Master Student</strong></div>
+  <div><em>2022.9 - now</em></div>
+</div>
+
+<!-- Clear floats after the columns -->
+<div style="clear: both;"></div>
+
 Getting started
 ======
 
