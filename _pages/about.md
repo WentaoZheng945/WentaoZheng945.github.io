@@ -21,12 +21,14 @@ Education
 *2022.9 - now*  
 
 <p float="left">
-  <img src="path_to_nvidia_logo.png" alt="NVIDIA Logo" width="100"/>
-  <em>2023.6 - 2023.12</em>
+  <img src="../images/swjtu.png" alt="southwest jiaotong university Logo" width="100"/>
+  <strong>Bachelor</strong>
+  <em>2018.9 - 2022.6</em>
 </p>
 <p float="left">
-  <img src="path_to_amazon_logo.png" alt="Amazon Logo" width="100"/>
-  <em>2022.5 - 2022.9</em>
+  <img src="../images/tongji.png" alt="tongji Logo" width="100"/>
+  <strong>Master Student</strong>
+  <em>2022.9 - now</em>
 </p>
 
 Getting started
