@@ -29,7 +29,7 @@ Education
 
 <!-- Clear floats after the columns -->
 <div style="clear: both;"></div>
-<div style="height: 20px;"></div> <!-- 这将创建一个高度为20像素的空行 -->
+<div style="height: 15px;"></div> <!-- 这将创建一个高度为20像素的空行 -->
 
 
 
