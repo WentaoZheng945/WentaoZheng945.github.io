@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am currently a second-year master's student specializing in Transportation Engineering at Tongji University. I am part of the Traffic Operation and Simulation group [(TOPs)](https://tops.tongji.edu.cn/)), led by Professor Jian Sun. My supervisor is Associate Professor [Tian Ye](https://tops.tongji.edu.cn/info/1031/1185.htm). My research primarily revolves around accelerating testing procedures for autonomous vehicles and the automated generation of driving scenarios.
+E-mail: swjtu_zwt@163.com
 
 Education
 ======
@@ -27,6 +28,7 @@ Education
 
 <!-- Clear floats after the columns -->
 <div style="clear: both;"></div>
+
 
 
 
