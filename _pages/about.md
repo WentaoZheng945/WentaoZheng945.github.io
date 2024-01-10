@@ -26,12 +26,6 @@ Education
   <div><em>2022.9 - now</em></div>
 </div>
 
-<!-- Clear floats after the columns -->
-<div style="clear: both;"></div>
-
-
-
-
 Interests
 ======
 Fitness, basketball, badminton
